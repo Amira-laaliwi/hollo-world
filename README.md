@@ -1,2 +1,2 @@
 # hollo-world
-First respository 
+First project
